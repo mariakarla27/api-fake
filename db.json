@@ -1,0 +1,22 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Novo tratamento mostra eficácia contra o câncer de pulmão",
+      "texto": "Pesquisadores brasileiros anunciaram um tratamento experimental que aumenta a taxa de sobrevivência de pacientes com câncer de pulmão em estágio avançado. O estudo indica que a combinação de imunoterapia com medicamentos tradicionais traz resultados promissores.",
+      "icone": "https://cdn-icons-png.flaticon.com/512/2966/2966482.png"
+    },
+    {
+      "id": 2,
+      "titulo": "Campanha destaca importância do diagnóstico precoce do câncer de pulmão",
+      "texto": "O Ministério da Saúde iniciou uma nova campanha nacional para conscientizar sobre a importância do diagnóstico precoce do câncer de pulmão, destacando que detectar o tumor em fases iniciais aumenta significativamente as chances de cura.",
+      "icone": "https://cdn-icons-png.flaticon.com/512/3209/3209265.png"
+    },
+    {
+      "id": 3,
+      "titulo": "Estudo alerta: cigarros eletrônicos também podem causar câncer de pulmão",
+      "texto": "Pesquisas recentes apontam que o uso prolongado de cigarros eletrônicos pode provocar danos pulmonares semelhantes aos causados pelo cigarro tradicional, aumentando o risco de desenvolvimento de câncer.",
+      "icone": "https://cdn-icons-png.flaticon.com/512/3075/3075977.png"
+    }
+  ]
+}
